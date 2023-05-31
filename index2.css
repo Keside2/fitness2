@@ -1,0 +1,140 @@
+td{
+    padding: 5px;
+    margin: 5px;
+    /* background: red; */
+}
+.op{
+    font-family: cursive;
+}
+
+h4{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-family: cursive;
+    
+}
+h5{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-family: cursive; 
+    
+}
+.zop{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-family: cursive; 
+    
+   
+}
+
+.jon{
+    color: red;
+    background: rgba(255, 255, 255, 0);
+    border: 1px solid rgba(255, 255, 255, 0);
+    
+}
+textarea{
+    width: 300px;
+    height: 50px;
+}
+
+input[type=text]{
+    width: 95%;
+    background: rgb(227, 236, 240);
+    padding: 3px;
+    color: brown;
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 40px;
+}
+input[type=text]:hover{
+    
+    color: black;
+}
+textarea{
+    width: 95%;
+    background: rgb(227, 236, 240);
+    padding: 5px;
+    color: brown;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+textarea:hover{
+    
+    color:black;
+}
+
+.submit{
+    float: right;
+    padding: 7px;
+    margin: 5px;
+    border-radius: 8px;
+}
+.submit:hover{
+    background: red;
+}
+
+.hop3{
+    padding: 10px;
+    margin: 10px;
+}
+ #lop{
+    padding: 10px;
+    /* margin: 10px;  */
+    background-color: rgba(255, 255, 255, 0);
+    
+}
+.card{
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: white;
+    color: black;
+    border: 1px solid black;
+}
+.card-footer{
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: white;
+    color: black;
+    border: 1px solid black;
+}
+.pet{
+    padding: 10px;
+    border: 1px solid white;
+    height: 350px;
+    
+    
+}
+.bon{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.con{
+    text-align: left;
+}
+.xon{
+    float: right;
+}
+#zon{
+    background-image: url(./image/IMG_4708.WEBP);
+    /* padding: 100px 0; */
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+}
+.aon{
+    float: left;
+}
+.mybtn{
+    background-color: white;
+}
+
